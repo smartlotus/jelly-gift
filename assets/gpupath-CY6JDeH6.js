@@ -1,4 +1,4 @@
-import{n as e,t}from"./jelly-CXBzoE2X.js";import{t as n}from"./defineProperty-BbfpZ9Tg.js";var r=`
+import{n as e,t}from"./jelly-LTbLINoL.js";import{t as n}from"./defineProperty-BbfpZ9Tg.js";var r=`
 struct Sim {
   h: f32, gravity: f32, damp: f32, muBody: f32,
   muFin: f32, lambdaRatio: f32, fs: f32, fk: f32,
